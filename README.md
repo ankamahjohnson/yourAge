@@ -1,5 +1,5 @@
 # yourAge®
-A sleek, modern real-time age calculator built with HTML, CSS and JavaScript. Enter your birthdate and instantly discover exactly how long you've been alive, from year, month and day down to the second.
+A sleek, modern real-time age calculator built with HTML, CSS and JavaScript. Enter your birthdate and instantly discover exactly how long you've been alive, from years, months, and days down to the second.
 
 ## Live Demo
 View Live 🌐
