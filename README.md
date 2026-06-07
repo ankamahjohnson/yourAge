@@ -3,7 +3,7 @@ A sleek, modern real-time age calculator built with HTML, CSS and JavaScript. En
 
 ## Live Demo
 View Live 🌐
-https://ankamahjohnson.github.io/neon-analogue-clock/
+https://ankamahjohnson.github.io/yourAge/
 
 
 ## Features
