@@ -7,7 +7,7 @@ https://ankamahjohnson.github.io/yourAge/
 
 
 ## Features
-- Displays exact age in years, months and days
+- Calculates exact age in years, months, and days with proper handling of leap years and month transitions
 - Total seconds alive calculated and displayed dynamically
 - Real-time live updating seconds counter-continuously increases every second
 - Clean dark UI with cinematic looping background video
