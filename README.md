@@ -15,6 +15,9 @@ https://ankamahjohnson.github.io/yourAge/
 - Date picker input with Calculate button
 - Default state displays "0 years, 0 months and 0 days"
 - Accurate age calculation using JavaScript's Date() object
+- Input Validation — Prevents selection of future dates.
+
+
 - Fully responsive design across all screen sizes
 
 
